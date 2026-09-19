@@ -10,7 +10,7 @@ An independent, reusable 3D globe. It belongs to no project — other projects c
 
 ## Lineage
 
-Built inside Batavia Project · World Trading Live (`batavia-wtl`, `site/labs/globe-base.html` v4),
+Built inside Batavia Project · World Trading Live (`batavia-project-wtl`, `site/labs/globe-base.html` v4),
 then used as the seed for After Flight and Estela. Set apart here on 2026-09-19 so the clean
 base has its own home.
 
